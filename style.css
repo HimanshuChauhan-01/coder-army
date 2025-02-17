@@ -1,0 +1,220 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box1{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(237, 236, 236);
+    padding: 9px;
+    display: flex;
+    justify-content: center;
+}
+
+.nav{
+    margin-left:80px ;
+    text-align: center;
+    padding: 20px;
+}
+a{
+    margin-left: 50px;
+    font-size:larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+.color1{
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: rgb(255, 123, 0);
+    border-radius: 15%;
+    color: aliceblue;
+    font-size: large;
+    border-color:rgb(255, 123, 0) ;
+}
+.color2{
+    margin-top: 10px;
+    width: 120px;
+    font-size: large;
+    height: 50px;
+    background-color: rgb(93, 85, 214);
+    border-radius: 15%;
+    margin-left: 10px;
+    color: aliceblue;
+    border-color:rgb(93, 85, 214) ;
+}
+.box2{
+    padding: 100px;
+    width: 100%;
+    height: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 155px;
+}
+h1{
+    margin-top: 250px;
+    font-size: 50px;
+}
+h5{
+    font-size: 30px;
+}
+.color3{
+    width: 30px;
+    height: 30px;
+    border-radius: 40%;
+    padding: 4px;
+    color: blue;
+    background-color: aquamarine;
+    margin-right: 30px;
+    border-color: rgb(162, 162, 175);
+}
+.color4{
+    padding: 15px;
+    background-color: rgb(255, 123, 0);
+    border-radius: 10%;
+    border-color:rgb(255, 123, 0) ;
+}
+.color5{
+    /* margin-top: 10px; */
+    padding: 12px;
+    background-color: rgb(255, 248, 242);
+    border-radius: 10%;
+    border-color: orangered;
+    /* display: flex; */
+}
+.box3{
+    text-align: center;
+    background: linear-gradient(to right, #ffebc5, #ff914d); /* Adjust colors */
+    height: 100vh; /* Full viewport height */
+    justify-content: center;
+    
+}
+.class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.box{
+    padding: 20px;
+    border-color: rgb(134, 102, 102);
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.box:hover{
+    zoom: 1.1;
+}
+.h{
+    margin-top: 250px;
+    height: 450px;
+    width: 50%;
+}
+input{
+    background-color: azure;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.in{
+    height: 250px;
+    width: 250px;
+}
+.box4{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-color: black;
+    top: 0%;
+    text-align: center;
+}
+.box4 button{
+    margin-top: 10px;
+    color: rgb(26, 26, 25);
+    background-color: aqua;
+    width: 140px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.box4 h1{
+        margin-top: 50px;  /* Remove extra margin */
+        padding-top: 0; 
+}
+.txt h5{
+    margin-top: 20px;
+    color: rgb(106, 106, 106);
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.icon{
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+}
+.icon button{
+    margin-right: 20px;
+}
+.box5{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4d4d4c;
+    height: 200px;
+    width: 100% ;
+    /* display: flex; */
+    justify-content: center;
+}
+.owe{
+    display: flex;
+}
+.link{
+    font-size: larger;
+    margin-left: 200px;
+    color: aliceblue;
+}
+.company{
+    font-size: larger;
+    margin-left: 250px;
+    color: aliceblue;
+}
+.day{
+    font-size: larger;
+    margin-left: 250px;
+    color: aliceblue;
+}
+.one{
+    margin-left: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+h4{
+    color: #ff914d;
+}
+ul{
+    list-style: none    ;
+}
+.footer-divider {
+    width: 80%;
+    height: 2px;
+    background-color: gray;
+    margin: 20px auto;
+}
+p{
+    color: aliceblue;
+}
